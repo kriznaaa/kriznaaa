@@ -1,4 +1,4 @@
- ## Hi there 👋
+ ## Hi there , Krishna here 👋
 # 💫 About Me:
 🔭 I’m currently working on Data Science, Machine Learning, and AI projects<br><br>👯 I’m looking to collaborate on Open Source Data Science, Analytics, and AI applications<br><br>🤝 I’m looking for help with MLOps, Model Deployment, and System Design<br><br>🌱 I’m currently learning Advanced SQL, Machine Learning, Deep Learning, and Generative AI<br><br>💬 Ask me about Python, SQL, Data Analysis, Machine Learning, Tableau, and Power BI<br><br>⚡ Fun fact: I lost over 40 kg(108 kg> 68 kg) while pursuing engineering and learning Data Science
 
